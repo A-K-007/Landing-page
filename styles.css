@@ -61,3 +61,15 @@ a {
     
 
 }
+.para {
+    margin: 30px;
+}
+.btn {
+    background-color: #3883f6;
+    border-radius: 12px;
+    font-size: 20px;
+    border: none;
+    padding: 15px 30px;
+    margin: auto;
+    color: white;
+}
