@@ -75,7 +75,9 @@ a {
     color: white;
 }
 .quotes {
-    background-color: #d6c0c0;
+    padding: 100px;
+    background-color: #8f8989;
+    color: white;
     margin: 0px;
     font-size: 1.5rem;
     font-weight: bold;
