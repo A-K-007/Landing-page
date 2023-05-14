@@ -25,3 +25,18 @@ a {
 .logo {
     padding-left: 100px;
 }
+.img {
+    width: 500px;
+    margin: 50px;
+}
+.title {
+    margin: 0;
+}
+.section1 {
+    display: flex;
+    background-color: #1f2937;
+    color: #f9faf8;
+    align-items: center;
+    
+
+}
