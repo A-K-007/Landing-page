@@ -3,6 +3,7 @@ body {
     padding: auto;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
 }
 a {
     text-decoration: none;
@@ -13,7 +14,7 @@ a {
     display: flex;
     justify-content: space-between;
     padding: 20px;
-    background-color: rgb(41, 36, 36);
+    background-color: rgb(29, 4, 4);
     color: aliceblue;
     
 }
@@ -30,15 +31,13 @@ a {
 }
 .section1 {
     display: flex;
-    background-color: #1f2937;
-    color: #f9faf8;
+    background-color: #2e1114;
     align-items: center;
     
 
 }
 .random {
     padding: 50px;
-    color: black;
     font-size: 2.5rem;
 }
 .random-img {
@@ -51,11 +50,10 @@ a {
     border: 3px solid blue;
     border-radius: 5%;
     width: 400px;
-    color: bla
     ;
 }
 .section2 {
-    background-color: rgb(253, 233, 233);
+    background-color: #5e1920;
     
 
 }
@@ -74,8 +72,7 @@ a {
 }
 .quotes {
     padding: 100px;
-    background-color: #dad3d3;
-    color: black;
+    background-color: #a5313d;
     margin: 0px;
     font-size: 1.5rem;
     font-weight: bold;
@@ -89,9 +86,13 @@ a {
     padding: 0 100px 50px 0;
     text-align: end;
 }
-.img-description {
-    color: black;
-}
 .description {
     margin-left: 100px;
+}
+.signup {
+    background-color: #eb5d6b;
+}
+.footer {
+    background-color: #f8aab2;
+    padding: 30px;
 }
