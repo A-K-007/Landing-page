@@ -55,6 +55,7 @@ a {
 .img-all {
     border: 3px solid blue;
     border-radius: 5%;
+    width: 400px;
 }
 .section2 {
     background-color: rgb(253, 233, 233);
