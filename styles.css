@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: auto;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    padding-right: 120px;
+    color: aliceblue;
+}
+/* .main {
+    display: flex;
+    background-color: black;
+    color: white;
+
+} */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: black;
+    color: aliceblue;
+    
+}
+.logo {
+    padding-left: 100px;
+}
