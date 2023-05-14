@@ -9,12 +9,6 @@ a {
     padding-right: 120px;
     color: aliceblue;
 }
-/* .main {
-    display: flex;
-    background-color: black;
-    color: white;
-
-} */
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -25,10 +19,11 @@ a {
 }
 .logo {
     padding-left: 100px;
+    font-size: 2rem;
 }
 .img {
     width: 500px;
-    margin: 50px;
+    margin: 50px 100px 50px 400px;
 }
 .title {
     margin: 0;
@@ -56,6 +51,8 @@ a {
     border: 3px solid blue;
     border-radius: 5%;
     width: 400px;
+    color: bla
+    ;
 }
 .section2 {
     background-color: rgb(253, 233, 233);
@@ -64,6 +61,7 @@ a {
 }
 .para {
     margin: 30px;
+    font-size: 1.5rem;
 }
 .btn {
     background-color: #3883f6;
@@ -90,4 +88,10 @@ a {
 .quote-auther {
     padding: 0 100px 50px 0;
     text-align: end;
+}
+.img-description {
+    color: black;
+}
+.description {
+    margin-left: 100px;
 }
