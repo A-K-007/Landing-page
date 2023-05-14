@@ -73,3 +73,21 @@ a {
     margin: auto;
     color: white;
 }
+.quotes {
+    background-color: #d6c0c0;
+    margin: 0px;
+    font-size: 1.5rem;
+    font-weight: bold;
+  
+}
+.para2 {
+    margin: 0;
+    padding: 50px;
+}
+.quote-auther {
+    padding: auto 30px 30px auto;
+    text-align: end;
+}
+.auther {
+    padding-bottom: 20px;
+}
